@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/dar-jeeling" width="160px;"  alt="김다은"/>
+      <img src="https://avatars.githubusercontent.com/punchdrunkard" width="160px;"  alt="김다은"/>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/voka" width="160px;" alt="오재석"/>
@@ -21,7 +21,7 @@
   </tr>
   <tr>    
     <td align="center">
-      <a href="https://github.com/dar-jeeling">
+      <a href="https://github.com/punchdrunkard">
         <div>김다은</div>
       </a>
     </td>
